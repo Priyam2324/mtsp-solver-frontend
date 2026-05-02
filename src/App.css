@@ -6,6 +6,7 @@
   min-width: 272px;
   max-width: 272px;
   height: 100vh;
+  height: 100dvh;
   background: var(--sidebar-bg);
   border-right: 1px solid var(--border-soft);
   display: flex;
@@ -367,6 +368,7 @@
   flex: 1;
   min-width: 0;
   height: 100vh;
+  height: 100dvh;
   display: flex;
   flex-direction: column;
   overflow: hidden;
@@ -600,6 +602,7 @@
 
   .main-area {
     height: auto;
+    overflow-y: auto;
   }
 
   .bottom-bar {
