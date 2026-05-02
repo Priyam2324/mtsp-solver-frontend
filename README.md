@@ -4,6 +4,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue?style=for-the-badge)
 
+👉 **Live Frontend Demo**: [https://priyam2324.github.io/mtsp-solver-frontend/](https://priyam2324.github.io/mtsp-solver-frontend/)  
+👉 **Live Backend API**: [https://huggingface.co/spaces/Priyam2307/mtsp-solver-backend](https://huggingface.co/spaces/Priyam2307/mtsp-solver-backend)
+
 This project is a visual, interactive implementation of a novel approach to optimizing complex multi-agent routing problems.
 
 ---
